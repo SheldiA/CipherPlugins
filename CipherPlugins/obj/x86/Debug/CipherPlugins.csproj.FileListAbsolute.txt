@@ -1,0 +1,10 @@
+D:\Project c#\CipherPlugins\CipherPlugins\bin\Debug\CipherPlugins.exe
+D:\Project c#\CipherPlugins\CipherPlugins\bin\Debug\CipherPlugins.pdb
+D:\Project c#\CipherPlugins\CipherPlugins\obj\x86\Debug\CipherPlugins.MainForm.resources
+D:\Project c#\CipherPlugins\CipherPlugins\obj\x86\Debug\CipherPlugins.Properties.Resources.resources
+D:\Project c#\CipherPlugins\CipherPlugins\obj\x86\Debug\CipherPlugins.csproj.GenerateResource.Cache
+D:\Project c#\CipherPlugins\CipherPlugins\obj\x86\Debug\CipherPlugins.exe
+D:\Project c#\CipherPlugins\CipherPlugins\obj\x86\Debug\CipherPlugins.pdb
+D:\Project c#\CipherPlugins\CipherPlugins\obj\x86\Debug\CipherPlugins.csprojResolveAssemblyReference.cache
+D:\Project c#\CipherPlugins\CipherPlugins\bin\Debug\ClassLibraryLFSRCipher.dll
+D:\Project c#\CipherPlugins\CipherPlugins\bin\Debug\ClassLibraryLFSRCipher.pdb
